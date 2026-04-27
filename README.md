@@ -6,7 +6,7 @@ This repository contains weekly tasks and implementations completed during the i
 ## Structure
 - Week 1: FFmpeg video processing
 - Week 2: YOLO object detection
-- Week 3: (to be added)
+- Week 3: 
 
 ## Tools Used
 - Python
