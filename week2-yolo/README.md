@@ -122,5 +122,16 @@ week2-yolo
 
 Successfully implemented an end-to-end computer vision pipeline using YOLOv8, extending from single-image detection to multi-image video generation with audio.
 
+## Performance Metrics
+
+In this experiment, a pretrained YOLOv8 model was used for object detection.
+Since the model was not trained locally, performance metrics such as precision, recall, and mAP were not generated in the runs folder.
+
+These metrics are typically obtained during the training phase and indicate:
+- Precision: Accuracy of detected objects
+- Recall: Ability to detect all objects
+- mAP: Overall detection performance
+
+The pretrained model used has been trained on large datasets (e.g., COCO), and its performance is predefined.
 ---
 
