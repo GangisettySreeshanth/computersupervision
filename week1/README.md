@@ -24,7 +24,8 @@ To convert a video into image frames for further processing.
 
 ## 📁 Folder Structure
 
-frames 
+frames
+
 ├── frame_0001.jpg
 
 ├── frame_0002.jpg
