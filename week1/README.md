@@ -6,13 +6,10 @@ To convert a video into image frames for further processing.
 
 ## 🛠️ Tools Used
 
-* Python
-* OpenCV
 * FFmpeg
 
 ## ⚙️ Methodology
-
-1. Loaded video using OpenCV
+1.Load the video in required Folder
 2. Read frames sequentially
 3. Saved each frame as an image
 4. Stored images in a folder
